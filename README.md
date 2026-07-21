@@ -32,4 +32,4 @@ The AI-Based Pharmacy Management System is a Java desktop application developed 
 - AI Low Stock Alert
 - AI Expiry Date Check
 - AI Sales Recommend and Analyz
-- 
+
