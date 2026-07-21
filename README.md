@@ -23,3 +23,13 @@ The AI-Based Pharmacy Management System is a Java desktop application developed 
 - Sales Prediction using AI
 - Barcode Scanner Support
 - Email/SMS Notifications
+
+## Project Screenshots
+- Login and Main Menu
+- ADD/View Medicine
+- Billing Counter and Sales History
+- AI Medicine Recommendation
+- AI Low Stock Alert
+- AI Expiry Date Check
+- AI Sales Recommend and Analyz
+- 
