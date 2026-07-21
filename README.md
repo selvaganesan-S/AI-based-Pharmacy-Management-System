@@ -33,3 +33,7 @@ The AI-Based Pharmacy Management System is a Java desktop application developed 
 - AI Expiry Date Check
 - AI Sales Recommend and Analyz
 
+## MySQL Database
+- The Project Uses a MySQL Database
+- Database file: Pharmacy.sql
+- Update the Database username and password through Eclipse IDE in 'DBConnection.java' and then Run Main.java
